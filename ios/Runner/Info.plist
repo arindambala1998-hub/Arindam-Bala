@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+
+	<key>CFBundleDisplayName</key>
+	<string>Troonky Link</string>
+
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+
+	<key>CFBundleName</key>
+	<string>troonky_link</string>
+
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+
+	<key>CFBundleSignature</key>
+	<string>????</string>
+
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+
+	<!-- ===================== -->
+	<!-- ✅ Deep Link: troonky:// -->
+	<!-- ===================== -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.example.troonky_link</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>troonky</string>
+			</array>
+		</dict>
+	</array>
+
+	<!-- ===================== -->
+	<!-- Permissions -->
+	<!-- ===================== -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to find nearby shops and services based on your pincode.</string>
+
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need your location to find nearby shops and services based on your pincode.</string>
+
+	<key>NSCameraUsageDescription</key>
+	<string>Troonky will use the camera to let you take photos and record videos for your profile and posts.</string>
+
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Troonky needs access to the microphone to record audio for videos and voice messages.</string>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Troonky will access your photo library so you can pick and upload photos and videos.</string>
+
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Troonky may save photos or videos to your library (e.g., downloads or recorded videos).</string>
+
+</dict>
+</plist>

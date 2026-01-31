@@ -1,0 +1,264 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20251102121744
+Username: ARINDAM\bala_
+RunAs User: ARINDAM\bala_
+Configuration Name: 
+Machine: ARINDAM (Microsoft Windows NT 10.0.26100.0)
+Host Application: powershell.exe -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1 -NoExit -ExecutionPolicy Bypass -File C:\Program Files\Android\Android Studio\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1
+Process ID: 22128
+PSVersion: 5.1.26100.6899
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.6899
+BuildVersion: 10.0.26100.6899
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is flutter_audit_20251102_121744.txt
+===== 🧩 SYSTEM =====
+
+
+
+===== 🩺 flutter doctor =====
+
+
+===== 📁 PROJECT ROOT =====
+
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        24-10-2025     19:30                .dart_tool
+d-----        19-09-2025     20:35                .idea
+d-----        15-09-2025     21:36                android
+d-----        02-11-2025     11:59                build
+d-----        15-09-2025     21:27                ios
+d-----        22-10-2025     14:06                lib
+d-----        16-09-2025     21:40                test
+-a----        24-10-2025     19:01          12628 .flutter-plugins-dependencies
+-a----        15-09-2025     21:27            748 .gitignore
+-a----        15-09-2025     21:27           1114 .metadata
+-a----        15-09-2025     21:27           1448 analysis_options.yaml
+-a----        16-09-2025     21:39            184 devtools_options.yaml
+-a----        02-11-2025     12:17           2204 flutter_audit.ps1
+-a----        02-11-2025     12:17           4354 flutter_audit_20251102_121744.txt
+-a----        22-10-2025     16:26          26137 pubspec.lock
+-a----        24-10-2025     12:52           1478 pubspec.yaml
+-a----        15-09-2025     21:27            571 README.md
+-a----        16-09-2025     21:39            706 troonky_link.iml
+
+
+
+===== 📦 pubspec.yaml =====
+
+===== 🗂️ lib/ structure =====
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\lib
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        25-09-2025     21:14                gen_l10n
+d-----        25-09-2025     22:16                models
+d-----        24-10-2025     21:44                pages
+d-----        24-10-2025     21:08                services
+d-----        21-09-2025     12:31                widgets
+-a----        22-10-2025     13:16          10236 login_page.dart
+-a----        22-10-2025     13:54           6771 main.dart
+-a----        22-10-2025     14:06          16686 signup_page.dart
+-a----        21-09-2025     22:37           2066 Video_Player_Widget.dart
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\lib\gen_l10n
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        25-09-2025     21:14           6502 app_localizations.dart
+-a----        25-09-2025     21:14           1059 app_localizations_bn.dart
+-a----        25-09-2025     21:14            909 app_localizations_en.dart
+-a----        25-09-2025     21:14           1053 app_localizations_hi.dart
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\lib\models
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        25-09-2025     22:16           1181 profile_model.dart
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\lib\pages
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        24-10-2025     20:16                profile
+-a----        24-10-2025     21:44          16760 feed_page.dart
+-a----        22-10-2025     15:43          23306 home_page.dart
+-a----        16-09-2025     21:54           3773 messages_page.dart
+-a----        24-10-2025     21:37          11563 new_post_page.dart
+-a----        16-09-2025     22:49           1715 notification_page.dart
+-a----        24-09-2025     22:36           1644 profile_switcher.dart
+-a----        16-09-2025     21:56           2778 search_page.dart
+-a----        22-10-2025     15:56          10926 service_page.dart
+-a----        23-09-2025     19:44           4106 settings_page.dart
+-a----        22-10-2025     16:01           9663 shop_page.dart
+-a----        22-10-2025     13:46           6789 splash_screen.dart
+-a----        22-10-2025     15:37          25053 tournament_page.dart
+-a----        19-09-2025     19:04           4344 tournament_request_page.dart
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\lib\pages\profile
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        22-10-2025     16:10          17299 business_profile_page.dart
+-a----        22-10-2025     16:13          10730 cart_page.dart
+-a----        24-10-2025     12:26          15154 edit_profile_page.dart
+-a----        23-09-2025     19:36           7189 kyc_page.dart
+-a----        25-09-2025     23:38           4443 product_detail_page.dart
+-a----        24-10-2025     20:16          24195 profile_page.dart
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\lib\services
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        24-10-2025     21:08          35508 api_service.dart
+-a----        05-10-2025     16:43           3080 permission_service.dart
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\lib\widgets
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        21-09-2025     12:31           1892 troonky_logo.dart
+
+
+
+===== 🔥 Firebase (if any) =====
+
+===== ⚙️ Android Gradle =====
+
+===== 🍏 iOS Config (summary only) =====
+
+===== 🧪 Tests (if any) =====
+
+
+    Directory: C:\Users\bala_\Desktop\troonky_link\test
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        16-09-2025     21:40            661 widget_test.dart
+
+
+
+===== 🔀 Flavors (guess) =====
+
+===== 📄 README =====
+Path
+----
+C:\Users\bala_\Desktop\troonky_link
+name: troonky_link
+description: "Troonky mobile app (Flutter) â€” Android & iOS"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  # Dart 3 required by recent plugins (image_picker, video_player, etc.)
+  sdk: ">=3.0.0 <4.0.0"
+  # Flutter 3.16+ recommended for latest plugin compatibility
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Networking & storage
+  http: ^1.2.1
+  shared_preferences: ^2.3.2
+
+  # Permissions (camera/gallery)
+  permission_handler: ^11.3.1
+
+  # Media
+  video_player: ^2.9.2
+  chewie: ^1.8.1
+  image_picker: ^1.1.2
+  cached_network_image: ^3.3.1
+
+  # State management
+  provider: ^6.1.2
+
+  # UI / Fonts / Icons
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.7.0
+
+  # Localization & formatting
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # âœ… Make sure this folder exists in your project root
+  assets:
+    - assets/
+    # Example if you have subfolders:
+    # - assets/images/
+    # - assets/icons/
+
+  # âœ… Fonts (optional â€” uncomment when you add custom fonts)
+  # fonts:
+  #   - family: Inter
+  #     fonts:
+  #       - asset: assets/fonts/Inter-Regular.ttf
+  #       - asset: assets/fonts/Inter-Bold.ttf
+  #         weight: 700
+
+  # Generates localization files automatically
+  generate: true
+No android/app/build.gradle
+org.gradle.jvmargs=-Xmx8G -XX:MaxMetaspaceSize=4G -XX:ReservedCodeCacheSize=512m -XX:+HeapDumpOnOutOfMemoryError
+android.useAndroidX=true
+android.enableJetifier=true
+iOS project present (pbxproj exists)
+# troonky_link
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+**********************
+Windows PowerShell transcript end
+End time: 20251102121754
+**********************
